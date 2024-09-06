@@ -8,8 +8,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="center">A passionate software developer | Salesforce Platform Developer I Certified</h4>
 
 ###
