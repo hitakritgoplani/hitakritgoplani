@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img style="display:block;"width="auto" height="200" src="./banner.png"  />
+  <img style="display:block; max-width:600; max-height:200;" width="auto" height="auto" src="./banner.png"  />
 </div>
 
 ###
