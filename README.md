@@ -21,19 +21,19 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hitakrit-goplani-057308247/" target="_blank">
+  <a style="text-decoration: none;" href="https://www.linkedin.com/in/hitakrit-goplani-057308247/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/hitakritgoplani?t=abNa37gqcy8E-ZAugEXNww&s=09" target="_blank">
+  <a style="text-decoration: none;" href="https://x.com/hitakritgoplani?t=abNa37gqcy8E-ZAugEXNww&s=09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/hitakrit.goplani/" target="_blank">
+  <a style="text-decoration: none;" href="https://www.instagram.com/hitakrit.goplani/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://linktr.ee/hitakritgoplani" target="_blank">
+  <a style="text-decoration: none;" href="https://linktr.ee/hitakritgoplani" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree logo"  />
   </a>
-  <a href="https://medium.com/@hitakritgoplani" target="_blank">
+  <a style="text-decoration: none;" href="https://medium.com/@hitakritgoplani" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="47" height="35" alt="medium logo"  />
   </a>
 </div>
