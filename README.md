@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1SLGKifX7ICPh_ltf0TQlckmpMNftPpVU/view?usp=sharing"  />
+  <img height="200" src="https://imgflip.com/gif/92mxe1"  />
 </div>
 
 ###
@@ -27,9 +27,6 @@
   <a href="https://x.com/hitakritgoplani?t=abNa37gqcy8E-ZAugEXNww&s=09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
-  <a href="hitakritgoplani@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
   <a href="https://www.instagram.com/hitakrit.goplani/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
   </a>
@@ -47,7 +44,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on <a href='https://github.com/hitakritgoplani/security-mini-projects'>mini projects related to security concepts</a><br><br>- 🌱 I’m currently learning **Lightning Web Components**<br><br>- 👯 I’m looking to collaborate on <strong>Salesforce Applications</strong><br><br>- 📫 How to reach me <strong>hitakritgoplani@gmail.com</strong></p>
+<p align="left">- 🔭 I’m currently working on <a href='https://github.com/hitakritgoplani/security-mini-projects'>mini projects related to security concepts</a><br><br>- 🌱 I’m currently learning <strong>Lightning Web Components</strong><br><br>- 👯 I’m looking to collaborate on <strong>Salesforce Applications</strong><br><br>- 📫 How to reach me <strong>hitakritgoplani@gmail.com</strong></p>
 
 ###
 
@@ -120,7 +117,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -154,12 +151,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hitakritgoplani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitakritgoplani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=hitakritgoplani" alt="Layout with last medium posts"  />
 </div>
 
 ###
